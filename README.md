@@ -1,4 +1,4 @@
-![logo](https://github.com/Zobia-hub/Zobia-hub/blob/6b3826c837aed4f105114a4ad6d82f45f7752d70/Blue%2C%20Green%2C%20and%20White%20Modern%20Tech%20Web%20Developer%20LinkedIn%20Banner.png)
+![logo](https://github.com/Zobia-hub/Zobia-hub/blob/929a87eb987d4a68ca075d6ce1c406007dac04b6/Blue%20Corporate%20Linkedin%20Article%20Cover%20image%20.jpg)
 <h1 align="center">Hi 👋, I'm Zobia Jawed</h1>
 <h3 align="center">A passionate web developer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
